@@ -1,0 +1,54 @@
+.MBS {
+    object-fit: cover;
+    background-color: rgba(47, 79, 79, 0.60);
+    color:whitesmoke;
+    width: 140px;
+    height: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 90px 25px;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    cursor: pointer;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 99;
+  }
+
+.MBS:hover {
+    transform: scale(1.05);
+    background-color: rgba(27, 36, 36, 0.87);    
+    transition: 0.1s;
+}
+
+.MBS:nth-child(1) {
+    background-color: rgba(88, 22, 22, 0.6);
+    
+
+}
+
+.MBS:nth-child(2) {
+    background-color: rgba(8, 2, 2, 0.6);
+
+}
+
+.MBS:nth-child(3) {
+    background-color: rgba(209, 191, 26, 0.6);
+
+}
+
+.MBS img {
+    object-fit: cover;
+
+    /* filter: invert(100%); */
+}
+
+@media screen and (max-width: 768px) {
+  
+    .container {
+      flex-wrap: nowrap;
+    }
+    
+    
+    }

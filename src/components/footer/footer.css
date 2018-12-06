@@ -1,0 +1,34 @@
+footer {
+    position: relative;
+    bottom: 0px;
+    background-color: rgba(43, 13, 13, 0.74);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    letter-spacing: 2px;
+    font-family: Raleway;
+    padding: 20px;
+    margin-top: 3%;
+}
+
+/* a:link, a:active, a:visited {
+    text-decoration: none;
+    color: white;
+} */
+
+#gmail,
+#linkedIn,
+#github,
+#twitter {
+    color: whitesmoke;
+    font-size: 2em;
+    padding: 10px;
+    /* display: flex; */
+    /* display: none; */
+}
+
+/* .smLinks:hover {
+    color: #800000;
+} */

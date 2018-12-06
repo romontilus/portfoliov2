@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Cantora+One');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+body {
+    background-image:url("/what2.jpg");
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position-y: 80%;
+  }
+
+.wrapper {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}

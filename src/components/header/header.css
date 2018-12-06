@@ -1,0 +1,32 @@
+header {
+    color: white;
+    padding: 20px 15px;
+    background-color: rgba(0, 0, 0, 0.74);
+
+}
+
+h1 {
+    font-family: "Cantora One";
+    text-transform: uppercase;
+}
+
+p {
+    font-family: "Raleway";
+    
+}
+
+a {
+    cursor: pointer;
+}
+
+.profile {
+    border-radius: 50%;
+    height: 135px;
+    width: 150px;
+    /* background: purple; */
+    /* left: -10vw; */
+    /* top: -23vh;
+    left: 25vw; */
+    background-position-y: 12%;
+    float: right;
+}

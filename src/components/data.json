@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Burner Pages",
+        "image": "https://imgur.com/5ieht30.png",
+        "clicked": false,
+        "alt": "https://imgur.com/3i2hReh.png",
+        "description": "Web design made simple. Allows users to create their own one page website that can be shared with anyone. Technologies used: Mongo, Express, React Js, Node Js, Google User Authentication, Materialize, Giphy API",
+        "link": "https://possessed-shadow-75430.herokuapp.com" 
+    },
+    {
+        "id": 2,
+        "title": "FantasyGM",
+        "image": "https://imgur.com/dX0oEB9.png",
+        "clicked": false,
+        "alt": "https://imgur.com/lFuhryS.png",
+        "description":"A fantasy basketball app that allows user to build their custom teams featuring every player who ever played. Features play-by-play simulations. Technologies used: JQuery, Google Firebase, MySQL, Sport Radar API",
+        "link": "https://rcbfantasygm.herokuapp.com"
+    },
+    {
+        "id": 3,
+        "title": "Meal Planner",
+        "image": "https://imgur.com/kBDGR56.png",
+        "clicked": false,
+        "alt": "https://imgur.com/BDXfXsZ.png",
+        "description":"A site where users can search and save recipes and graph nutritional information for meal planning. Technologies used: JQuery, Google Firebase, Edemam Recipe API",
+        "link":"https://romontilus.github.io/Meal-Planner/"
+    }
+]
+
+
+

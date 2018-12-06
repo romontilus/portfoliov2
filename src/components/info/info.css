@@ -1,0 +1,16 @@
+.infoBoard {
+    background-color: rgba(0, 0, 0, 0.87);    
+    display: flex;
+    color: white;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.infoTitle {
+    font-family: "Cantora One";
+    margin-bottom: 0px;
+    font-size: 22pt; 
+
+}
+
